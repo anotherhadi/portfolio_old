@@ -1,9 +1,10 @@
 # Portfolio
-### Welcome to My Portfolio!
 
 <p align="center">
   <img width="60%" src="https://cdn.nostr.build/i/4f7f4aea6d69188b38e3e8693ab750162524f8350db0798342853fc11f163f9d.png" />
 </p>
+
+### Welcome to My Portfolio!
 
 ***/!\ Still in development***
 
@@ -25,10 +26,10 @@ See the [result here](https://hadi.tools)
 ## Usage
 
 ```bash
-git clone https://github.com/CloudyHadi/portfolio/
+git clone https://github.com/AnotherHadi/portfolio/
 cd portfolio && npm i && npm run dev
 ```
 
 ---
 
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=cloudyhadi&button_colour=eed2cc&font_colour=000000&font_family=Inter&outline_colour=ffffff&coffee_colour=ff0000" />
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=anotherhadi&button_colour=eed2cc&font_colour=000000&font_family=Inter&outline_colour=ffffff&coffee_colour=ff0000" />
