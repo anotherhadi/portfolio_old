@@ -7,7 +7,7 @@
 			name: 'ANSI',
 			description:
 				'The "ansi" package provides a simple and user-friendly way to add color and formatting to terminal output in Go applications. Enhance your command-line interfaces with vibrant text, background colors, and text styles, making your output more readable and visually appealing.',
-			githubLink: 'https://github.com/CloudyHadi/ansi',
+			githubLink: 'https://github.com/anotherhadi/ansi',
 			img: 'projects/ansi.svg'
 		}
 	];

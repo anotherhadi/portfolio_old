@@ -12,7 +12,7 @@
 	}}
 />
 <div class="grid grid-cols-12 w-full margin-auto p-5 gap-7">
-	<a href="https://github.com/cloudyhadi" target="_blank" class="col-span-6 sm:col-span-4">
+	<a href="https://github.com/anotherhadi" target="_blank" class="col-span-6 sm:col-span-4">
 		<button
 			class="btn btn-lg bg-[#9E97F8] text-black px-2 w-full h-full rounded-lg flex gap-2 transition-opacity duration-500 delay-[400ms]"
 			class:opacity-0={!isInView}
@@ -23,7 +23,7 @@
 		</button>
 	</a>
 
-	<a href="https://x.com/cloudyhadi" target="_blank" class="col-span-6 sm:col-span-4">
+	<a href="https://x.com/anotherhadi" target="_blank" class="col-span-6 sm:col-span-4">
 		<button
 			class="btn btn-lg bg-[#9E97F8] text-black px-2 w-full h-full rounded-lg flex gap-2 transition-opacity duration-500 delay-[500ms]"
 			class:opacity-0={!isInView}
@@ -34,7 +34,7 @@
 	</a>
 
 	<a
-		href="https://www.buymeacoffee.com/cloudyhadi"
+		href="https://www.buymeacoffee.com/anotherhadi"
 		target="_blank"
 		class="col-span-12 sm:col-span-4"
 	>

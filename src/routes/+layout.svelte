@@ -14,7 +14,7 @@
 			<svelte:fragment slot="trail">
 				<a
 					class="btn btn-sm variant-soft-tertiary"
-					href="https://twitter.com/cloudyhadi"
+					href="https://twitter.com/anotherhadi"
 					target="_blank"
 					rel="noreferrer"
 				>
@@ -22,7 +22,7 @@
 				</a>
 				<a
 					class="btn btn-sm variant-soft-tertiary"
-					href="https://github.com/cloudyhadi"
+					href="https://github.com/anotherhadi"
 					target="_blank"
 					rel="noreferrer"
 				>
