@@ -9,6 +9,13 @@
 				'The "ansi" package provides a simple and user-friendly way to add color and formatting to terminal output in Go applications. Enhance your command-line interfaces with vibrant text, background colors, and text styles, making your output more readable and visually appealing.',
 			githubLink: 'https://github.com/anotherhadi/ansi',
 			img: 'projects/ansi.svg'
+		},
+		{
+			name: 'Ghost',
+			description:
+				'The "ghost" package provides a collection of tools for creating Text-based User Interfaces (TUI). It offers features such as input fields, selections, and other components essential for building interactive text-based applications.',
+			githubLink: 'https://github.com/anotherhadi/ghost',
+			img: 'projects/ghost.svg'
 		}
 	];
 </script>
