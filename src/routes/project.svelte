@@ -33,7 +33,7 @@
 		</div>
 	{/if}
 	<div
-		class=" col-span-12 sm:col-span-8 p-7 rounded-lg flex flex-col items-start gap-5 transition-opacity duration-500 delay-[300ms]"
+		class=" col-span-12 sm:col-span-8 p-7 rounded-lg flex flex-col items-start gap-5 transition-opacity duration-500 delay-[300ms] justify-center"
 		class:opacity-0={!isInView}
 	>
 		<Typography variant="h3">{name}</Typography>
